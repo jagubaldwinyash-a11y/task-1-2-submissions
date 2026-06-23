@@ -1,3 +1,10 @@
+NAME: JAGU BALDWIN YASH
+16010125285
+COMPS- D DIVISION
+
+
+
+
 Level 0 → Level 1
 
 Goal: Retrieve the password stored in a file named readme in the home directory.
