@@ -7,6 +7,7 @@ Thought Process: Need to check the contents of the current directory to verify t
 Commands:
 
 ls
+
 cat readme
 
 Result: Retrieved the password string to log into the next level.
